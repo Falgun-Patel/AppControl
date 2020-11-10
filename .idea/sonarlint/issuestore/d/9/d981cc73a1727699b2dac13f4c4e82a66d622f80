@@ -1,0 +1,28 @@
+
+X	java:S125É"<This block of commented-out lines of code should be removed.(¤à€ 8†Ä¦›Ð.
+>
+java:S1604>"(Make this anonymous inner class a lambda(¬†Üø
+r
+java:S3008-"\Rename this field "SERVICE_CONNECTED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ˆûÖ
+Y
+java:S1854Æ"=Remove this useless assignment to local variable "deviceVID".(ö¨‘†øÿÿÿÿ
+`
+java:S1854Ç"=Remove this useless assignment to local variable "devicePID".(î’‚ëÿÿÿÿÿ8†Ä¦›Ð.
+>
+java:S1604N"(Make this anonymous inner class a lambda(©Ø”Ù
+M
+java:S2696‹"6Make the enclosing method "static" or remove this set.(™”²ê
+M
+java:S1444-"7Make this "public static SERVICE_CONNECTED" field final(¬ˆûÖ
+C
+java:S1604Y"(Make this anonymous inner class a lambda(âþìôýÿÿÿÿ
+O
+java:S4719B"9Replace charset name argument with StandardCharsets.UTF_8(ð¸”’
+J
+java:S1481Æ".Remove this unused "deviceVID" local variable.(ö¨‘†øÿÿÿÿ
+Y
+java:S2696¥"6Make the enclosing method "static" or remove this set.(–ó°ýùÿÿÿÿ8†Ä¦›Ð.
+s
+java:S1104-"]Make SERVICE_CONNECTED a static final constant or non-public and provide accessors if needed.(¬ˆûÖ
+Q
+java:S1481Ç".Remove this unused "devicePID" local variable.(î’‚ëÿÿÿÿÿ8†Ä¦›Ð.
